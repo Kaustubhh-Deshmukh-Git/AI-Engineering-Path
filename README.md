@@ -1,28 +1,27 @@
-# 🚀 AI Engineering & High-Performance Computing Log
+# 🚀 AI Engineering & High-Performance Computing Path
 
-**Status:** Active | **Target:** NVIDIA / HPC Systems
-**Focus:** C++, CUDA, Machine Learning, and Low-Latency Systems.
+**Status:** 🟢 Active | **Role:** Aspiring AI Engineer / HPC Specialist
+**Focus:** C++, NVIDIA CUDA, Computer Vision, and Low-Latency Systems.
 
-This repository serves as a daily commit log for my intense 90-day sprint to master AI Engineering and System Architecture. It documents code, projects, and theoretical concepts mastered, moving beyond "tutorial hell" into engineering application.
+This repository documents my intensive 90-day engineering sprint to bridge the gap between academic theory and industrial application (NVIDIA/HFT standards).
 
 ---
 
-### 📅 Daily Engineering Log
+## 🗺️ High-Level Roadmap (Q1 2026)
+| Phase | Focus Area | Key Deliverables | Status |
+| :--- | :--- | :--- | :--- |
+| **Phase 1** | **Foundations & Math** | ML Techniques, MATLAB IoT, C++ Memory Models | 🟡 *In Progress* |
+| **Phase 2** | **Algorithms & Speed** | Advanced DSA, CodeForces (1400+), System Design | ⚪ *Planned* |
+| **Phase 3** | **Architecture & GPU** | CUDA Kernels, Neural Networks from Scratch (C++) | ⚪ *Planned* |
 
-#### **[2026-01-22] Day 1: Supervised Learning Foundations (MATLAB)**
+---
+
+## 📅 Daily Engineering Log
+
+#### **[2026-01-22] Day 1: Supervised Learning & Model Evaluation**
 * **Status:** ✅ Completed
-* **Modules:** Classification Methods & Regression Methods.
-* **Key Engineering Concepts:**
-    * **Classification:** Implemented K-NN and Naive Bayes classifiers. Analyzed model performance using **Confusion Matrices** and **ROC Curves** to optimize for recall/precision.
-    * **Regression:** Built predictive models using linear and non-linear fitting techniques. Optimized utilizing **RMSE** (Root Mean Square Error) as the loss function.
-* **Tools Used:** MATLAB Classification Learner App, Statistics Toolbox.
-
----
-
-### 🛠️ Tech Stack & Roadmap
-* **Languages:** C++ (STL, Memory Management), Python, MATLAB.
-* **Systems:** Linux Kernel, Bash Scripting.
-* **Accelerated Computing:** NVIDIA CUDA (Upcoming).
-* **Theory:** Data Structures & Algorithms (CodeForces/LeetCode), System Design.
-
-> *"Talk is cheap. Show me the code."* - Linus Torvalds
+* **Focus:** Classification & Regression Mathematics.
+* **Technical Details:**
+    * **Theory:** Mastered Confusion Matrices, ROC/AUC Curves, and RMSE minimization.
+    * **Implementation:** Built predictive models using MATLAB's Classification Learner.
+    * **Insight:** False Negatives are costlier than False Positives in critical systems (e.g., medical/autonomous driving); optimized recall accordingly.
