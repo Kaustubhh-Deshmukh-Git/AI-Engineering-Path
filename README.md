@@ -16,6 +16,15 @@ This repository documents my intensive 90-day engineering sprint to bridge the g
 
 ---
 
+## 🏆 Credentials & Badges
+<div align="left">
+  <a href="https://www.credly.com/badges/455c9013-5d1a-46a0-9551-f2516d99cf6b">
+    <img src="https://images.credly.com/size/340x340/images/3351f566-17a9-42ae-a51e-8967d43cc7f4/blob" height="110" alt="MathWorks ML Badge">
+  </a>
+  <br>
+  <b>Machine Learning Techniques</b> - <i>MathWorks (Jan 2026)</i>
+</div>
+
 ## 📅 Daily Engineering Log
 
 #### **[2026-01-23] Day 2: Unsupervised Learning & Systems Fundamentals**
