@@ -18,6 +18,18 @@ This repository documents my intensive 90-day engineering sprint to bridge the g
 
 ## 📅 Daily Engineering Log
 
+#### **[2026-01-23] Day 2: Unsupervised Learning & Systems Fundamentals**
+* **Status:** ✅ Completed
+* **Focus:** Advanced ML Techniques (Clustering/PCA) & Low-Level Architecture.
+* **Technical Details:**
+    * **Machine Learning:**
+        * **Clustering:** Implemented K-Means to segment unlabeled datasets.
+        * **Dimensionality Reduction:** Applied **PCA (Principal Component Analysis)** to compress high-dimensional data, optimizing for variance vs. speed.
+    * **Systems Engineering (CS:APP):**
+        * Started **Chapter 1 & 2 (Bits & Integers)**.
+        * Investigating the compilation pipeline (Source -> Assembly -> Binary) and how `int` data types are represented in memory (Two's Complement).
+* **Artifact:** MATLAB "Machine Learning Techniques" Certificate Earned.
+
 #### **[2026-01-22] Day 1: Supervised Learning & Model Evaluation**
 * **Status:** ✅ Completed
 * **Focus:** Classification & Regression Mathematics.
