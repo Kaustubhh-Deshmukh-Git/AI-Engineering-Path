@@ -27,6 +27,14 @@ This repository documents my intensive 90-day engineering sprint to bridge the g
 
 ## 📅 Daily Engineering Log
 
+#### **[2026-01-24] Day 3: The Reset**
+* **Status:** ⚠️ Partial / Recovery
+* **Focus:** System Architecture (Memory Hierarchy).
+* **Technical Details:**
+    * Read CS:APP Section 1.5 (Caches).
+    * Learned about the L1/L2/L3 cache hierarchy and why "spatial locality" matters for performance.
+* **Note:** Lost the day to personal issues. rebooting protocol for Sunday.
+
 #### **[2026-01-23] Day 2: Unsupervised Learning & Systems Fundamentals**
 * **Status:** ✅ Completed
 * **Focus:** Advanced ML Techniques (Clustering/PCA) & Low-Level Architecture.
