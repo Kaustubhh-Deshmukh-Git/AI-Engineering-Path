@@ -27,6 +27,13 @@ This repository documents my intensive 90-day engineering sprint to bridge the g
 
 ## 📅 Daily Engineering Log
 
+#### **[2026-01-25] Day 4: Systems & Networking**
+* **Status:** 🟡 Recovery / Networking
+* **Focus:** CS:APP Chapter 1 (Completion).
+* **Technical Takeaways:**
+    * **Virtual Memory:** Studied how the OS abstracts physical RAM (Section 1.7).
+    * **Amdahl's Law:** Analyzed the theoretical limits of system speedup (Section 1.9).
+* **Non-Technical:** Attended college club event; focused on peer networking.
 
 
 #### **[2026-01-24] Day 3: The Reset**
