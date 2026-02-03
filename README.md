@@ -30,6 +30,22 @@ This repository documents my intensive 90-day engineering sprint to bridge the g
 
 ## 📅 Daily Engineering Log
 
+### 📅 Log: Feb 3, 2026 (The "Sort & Map" Breakthrough)
+**Status:** 🟢 Active (Heavy Output)
+
+**Engineering Practice (DSA):**
+* **🏆 Victory:** Solved **Group Anagrams (LeetCode 49)**.
+    * *Concept:* Implemented `unordered_map<string, vector<string>>`.
+    * *Technique:* Used sorted strings as hash keys (Canonical Form) to group anagrams efficiently.
+* **⚔️ Contest (CodeClash):** Scored **1/2**.
+    * *Solved:* String Pattern (Easy).
+    * *Missed:* Max Sum Subarray of Size K (Medium).
+    * *Lesson:* Identified a gap in **Sliding Window** logic. Brute force ($O(N^2)$) timed out; need $O(N)$ linear approach.
+* **🏋️‍♀️ Drills (NxtWave):** Completed 11 C++ Basics Modules.
+    * *Focus:* 2D Arrays, Diagonals, String Concatenation. High-volume syntax reinforcement.
+
+**Note:** "The medium problem is just a hard problem broken into small easy steps."
+
 #### **[2026-02-02] Day 12: The Dual-Core Start**
 * **Status:** 🟢 Active (High Intensity)
 * **Strategy:** Initiated "Parallel Threads" protocol.
