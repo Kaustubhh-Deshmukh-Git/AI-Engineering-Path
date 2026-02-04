@@ -30,6 +30,26 @@ This repository documents my intensive 90-day engineering sprint to bridge the g
 
 ## 📅 Daily Engineering Log
 
+### 📅 Log: Feb 4, 2026 (The "Sliding Window" Repair)
+**Status:** 🟢 Active (Recovery Mode)
+
+**Engineering Practice (DSA):**
+* **🔧 Repair:** Solved **Maximum Average Subarray I (LeetCode 643)**.
+    * *Technique:* Implemented **Fixed Size Sliding Window** ($O(N)$) to replace the nested loops ($O(N^2)$) that failed in the contest.
+    * *Correction:* Fixed the "Infinite Growth" bug by correctly subtracting `nums[i-k]` and checking `max` inside the loop.
+* **🏋️‍♀️ Drills (NxtWave):** Completed C++ Basics modules to maintain syntax speed.
+
+**Systems Theory (CS:APP):**
+* **Action:** Reading **Section 2.1 (Information Storage)**.
+    * *Focus:* Hexadecimal notation, Word sizes (32 vs 64-bit), and Byte Ordering (Big vs. Little Endian).
+    * *Goal:* Understanding how the hardware actually stores the integers used in DSA.
+
+**AI Systems (Concept):**
+* **Learned:** **Quantization** (FP32 $\to$ INT8).
+    * *Insight:* AI models are "compressed" from large 32-bit floating points to small 8-bit integers to run on consumer hardware. This connects bit-level theory to real-world AI inference.
+
+**Note:** "Yesterday's contest failure is today's solved problem."
+
 ### 📅 Log: Feb 3, 2026 (The "Sort & Map" Breakthrough)
 **Status:** 🟢 Active (Heavy Output)
 
