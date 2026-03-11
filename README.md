@@ -30,12 +30,36 @@ This repository documents my intensive 90-day engineering sprint to bridge the g
 
 ## 📅 Daily Engineering Log
 
+#### **[2026-03-04] to [2026-03-11] Days 42-49: The Academic & Algorithmic Sprint**
+* **Status:** 🟢 Active (High Intensity / Parallel Execution)
+* **Academics (March 4-11):** Paused development for a 100% focus sprint on B.E. IT Unit Exams. Mastered core IT syllabus via professor question banks. Defended the CGPA.
+* **Engineering Practice (DSA):** Resumed Striver's SDE Sheet (Day 1) to build FAANG-level array manipulation muscle memory.
+    * *Optimization 1:* **Two Sum (LeetCode 1)**. Upgraded from O(N^2) brute force to O(N) using Hash Maps.
+    * *Optimization 2:* **Set Matrix Zeroes (LeetCode 73)**. Achieved strict O(1) in-place space complexity.
+    * *Optimization 3:* **Maximum Subarray (LeetCode 53)**. Implemented **Kadane's Algorithm** for O(N) single-pass execution.
+    * *Optimization 4:* **Best Time to Buy & Sell Stock (LeetCode 121)**. Applied the O(N) "Lowest Valley" tracking logic.
+* **Note:** "True system speed comes from linear time. Mastering the O(N) boundary."
+
+#### **[2026-02-16] to [2026-03-03] Days 26-41: Database Architecture Mastery**
+* **Status:** 🟢 Active (Data Engineering Focus)
+* **Engineering Practice (SQL):** Transitioned to CCBP Relational Database curriculum to build the backend foundation required for complex AI/RAG systems.
+    * *Foundations:* Executed state-management CRUD operations (SQLite/MySQL).
+    * *Advanced Querying:* Applied Aggregations (`COUNT`, `SUM`, `AVG`) and rigorous data filtering (`WHERE`, `HAVING`) for large datasets.
+    * *Relational Logic:* Mastered `INNER JOIN`, `LEFT JOIN`, and Subqueries. Applied database normalization to optimize schema scalability.
+
+#### **[2026-02-05] to [2026-02-15] Days 15-25: Leadership & Core Infrastructure**
+* **Status:** 🟡 Maintenance Mode / Active (Context Switching)
+* **Leadership & Academics:** Peak coordination for the DY Patil Cultural Fest via Devkraft and ITSA. Successfully executed event logistics and recovered.
+* **Systems Engineering (CCBP):** Initiated Developer Foundations.
+    * *Networking:* Reviewed IP, TCP/UDP, and HTTP/HTTPS architecture.
+    * *Version Control:* Mastered CLI and Git branching strategies to ensure clean commit histories for future ML/infrastructure pipelines.
+
 ### 📅 Log: Feb 4, 2026 (The "Sliding Window" Repair)
 **Status:** 🟢 Active (Recovery Mode)
 
 **Engineering Practice (DSA):**
 * **🔧 Repair:** Solved **Maximum Average Subarray I (LeetCode 643)**.
-    * *Technique:* Implemented **Fixed Size Sliding Window** ($O(N)$) to replace the nested loops ($O(N^2)$) that failed in the contest.
+    * *Technique:* Implemented **Fixed Size Sliding Window** (O(N)) to replace the nested loops (O(N^2)) that failed in the contest.
     * *Correction:* Fixed the "Infinite Growth" bug by correctly subtracting `nums[i-k]` and checking `max` inside the loop.
 * **🏋️‍♀️ Drills (NxtWave):** Completed C++ Basics modules to maintain syntax speed.
 
@@ -45,7 +69,7 @@ This repository documents my intensive 90-day engineering sprint to bridge the g
     * *Goal:* Understanding how the hardware actually stores the integers used in DSA.
 
 **AI Systems (Concept):**
-* **Learned:** **Quantization** (FP32 $\to$ INT8).
+* **Learned:** **Quantization** (FP32 -> INT8).
     * *Insight:* AI models are "compressed" from large 32-bit floating points to small 8-bit integers to run on consumer hardware. This connects bit-level theory to real-world AI inference.
 
 **Note:** "Yesterday's contest failure is today's solved problem."
@@ -60,7 +84,7 @@ This repository documents my intensive 90-day engineering sprint to bridge the g
 * **⚔️ Contest (CodeClash):** Scored **1/2**.
     * *Solved:* String Pattern (Easy).
     * *Missed:* Max Sum Subarray of Size K (Medium).
-    * *Lesson:* Identified a gap in **Sliding Window** logic. Brute force ($O(N^2)$) timed out; need $O(N)$ linear approach.
+    * *Lesson:* Identified a gap in **Sliding Window** logic. Brute force (O(N^2)) timed out; need O(N) linear approach.
 * **🏋️‍♀️ Drills (NxtWave):** Completed 11 C++ Basics Modules.
     * *Focus:* 2D Arrays, Diagonals, String Concatenation. High-volume syntax reinforcement.
 
@@ -72,7 +96,7 @@ This repository documents my intensive 90-day engineering sprint to bridge the g
     * **Thread 1 (Theory):** Started **CS:APP Chapter 2** (Representing Information). Deep dive into Hexadecimal, Two's Complement, and bitwise operations.
     * **Thread 2 (Practice):** Started **Chapter 2: Medium Arrays & Hashing** (DSA).
 * **Engineering Challenge:**
-    * **Group Anagrams (LeetCode 49):** Implemented a complex HashMap (`unordered_map<string, vector<string>>`) to group strings by their sorted signature ($O(N \cdot K \log K)$).
+    * **Group Anagrams (LeetCode 49):** Implemented a complex HashMap (`unordered_map<string, vector<string>>`) to group strings by their sorted signature (O(N * K log K)).
 
 #### **[2026-01-26] to [2026-02-01] Days 5-11: The Academic Sprint**
 * **Status:** 🟡 Maintenance Mode (Leadership & Operations)
